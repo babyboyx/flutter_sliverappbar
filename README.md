@@ -1,2 +1,8 @@
-# flutter_sliverappbar
-Flutter SliverAppbar with Hero animation image with the help of PageRouteBuilder
+# sliverappbar_flutter
+
+A new Flutter project.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
